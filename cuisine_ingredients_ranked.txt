@@ -1,0 +1,3 @@
+Cuisine: arabic | Ingredients: olive (178), salt (176), garlic (147), pepper (132), onion (111)
+Cuisine: chinese | Ingredients: soy sauce (154),  (142), sesame oil (116), salt (105), corn starch (101)
+Cuisine: pakistan | Ingredients:  (273), salt (176), onions (105), water (82), garlic (76)
